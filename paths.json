@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-universal-editor/:/",
-    "/content/eds-universal-editor/configuration:/.helix/config.json",
-    "/content/eds-universal-editor/metadata:/metadata.json"
+    "/content/lekhraj-eds/:/",
+    "/content/lekhraj-eds/configuration:/.helix/config.json",
+    "/content/lekhraj-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-universal-editor/"
+    "/content/lekhraj-eds/"
   ]
 }
